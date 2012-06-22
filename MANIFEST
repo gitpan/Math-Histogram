@@ -1,6 +1,9 @@
 Changes
+ctest/100axis
 ctest/100axis.c
+ctest/200histogram
 ctest/200histogram.c
+ctest/210histofill
 ctest/210histofill.c
 ctest/mytap.h
 Histogram.xs
@@ -25,7 +28,10 @@ t/210axisdump.t
 t/300histogram.t
 t/310contract.t
 t/320cumulate.t
+t/330histodump.t
 t/lib/Math/Histogram/Test.pm
 typemap
+XS/Axis.xs
+XS/Histogram.xs
 META.yml                                 Module YAML meta-data (added by MakeMaker)
 META.json                                Module JSON meta-data (added by MakeMaker)
