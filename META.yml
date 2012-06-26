@@ -25,4 +25,4 @@ requires:
   Getopt::Long: 0
   JSON::XS: 0
   Test::More: 0.94
-version: 1.02
+version: 1.03
